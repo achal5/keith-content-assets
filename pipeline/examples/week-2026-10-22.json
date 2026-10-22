@@ -1,0 +1,18 @@
+{
+  "carousel": {
+    "cover": {"hook": "Google's AI is citing social posts. Are yours worth citing?", "label": "5 AI + social updates worth knowing this week", "date": "Oct 22"},
+    "slides": [
+      {"type": "stat", "tag": "News 01 · Google", "number": "67.66%", "headline": "of Google AI Overviews linked to a [[social platform]]", "sub": "SE Ranking checked 100,000 keywords. ChatGPT linked to social in just 8.4% of answers.", "source": "SE Ranking, via Social Media Today, Oct 7"},
+      {"type": "news", "tag": "News 02 · Meta Ads", "headline": "Meta now sells [[3 to 24 hour ad windows]]", "sub": "Ads Super Burst can lock rivals out of your category. First Impression Ads, a US test, gives one brand the first ad slot each day.", "image": "img/ads.png", "fit": "contain", "image_bg": "#f3f6fe", "icon": "clock", "source": "Meta, via Social Media Today, Oct 15"},
+      {"type": "news", "tag": "News 03 · Instagram", "headline": "Instagram Edits now builds [[carousels]]", "sub": "Mix photos and video, reuse Edits fonts and text styles, and make custom stickers. On iOS now, Android soon.", "image": "img/edits.png", "image_h": 430, "icon": "carousel", "source": "Instagram, via Social Media Today, Oct 7"},
+      {"type": "news", "tag": "News 04 · Meta One", "headline": "Links in posts are here, but [[capped]]", "sub": "Meta One Advanced, at $49.99 a month, adds links to organic posts and Reels. That covers 4 posts and 4 Reels a month. Even the $499 Max plan stops at 12 of each.", "image": "img/links.png", "fit": "contain", "image_bg": "#f1f5f8", "icon": "link", "source": "Meta Newsroom, Sept 15"},
+      {"type": "news", "tag": "News 05 · ChatGPT", "headline": "That ChatGPT traffic drop was mostly [[a tracking bug]]", "sub": "ChatGPT links lost their UTM tags, so visits landed in Direct. One tracker saw ChatGPT visits fall 67%. A fix began rolling out Oct 15.", "image": "img/chat.png", "image_bg": "#f5f5f3", "icon": "trend", "source": "Search Engine Land, Oct 20"}
+    ],
+    "take": {"headline": "Social is now a [[search channel]]", "sub": "Post things worth citing. Clear answers, real numbers, your name on it. Then watch who finds you."},
+    "cta": {"headline": "Comment [[UPDATE]] and I'll send you the full list", "sub": "All five updates, with the sources, in one place.", "keyword": "UPDATE"}
+  },
+  "stories": [
+    {"name": "story-67", "type": "quick", "number": "67.66%", "headline": "of Google AI Overviews linked to [[a social platform]]", "sub": "Your posts are now search results. Write them like it.", "source": "SE Ranking, via Social Media Today, Oct 7"},
+    {"name": "story-poll", "type": "poll", "headline": "Is your content worth [[citing?]]", "context": "AI now cites social posts. Would it cite yours?"}
+  ]
+}

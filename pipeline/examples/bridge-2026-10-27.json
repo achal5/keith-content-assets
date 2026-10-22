@@ -1,0 +1,6 @@
+{
+  "stories": [
+    {"name": "story-bridge-tue", "type": "news", "chip": "Social news", "headline": "That ChatGPT traffic drop was mostly [[a tracking bug]]", "image": "img/chat.png", "fit": "contain", "image_bg": "#f5f5f3", "sub": "ChatGPT links lost their UTM tags, so visits landed in Direct. A fix began rolling out Oct 15.", "source": "Search Engine Land, Oct 20"},
+    {"name": "story-bridge-wed", "type": "quick", "chip": "My take", "headline": "Social is now a [[search channel]]", "size": 96, "sub": "Post things worth citing. Clear answers, real numbers, your name on it."}
+  ]
+}
