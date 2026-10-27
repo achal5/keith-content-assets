@@ -1,0 +1,132 @@
+{
+ "carousel": {
+  "cover": {
+   "hook": "Instagram is testing 90 minute videos. Is your content ready?",
+   "label": "5 social updates worth knowing right now",
+   "date": "Oct 29"
+  },
+  "slides": [
+   {
+    "type": "stat",
+    "tag": "News 01 · Instagram",
+    "number": "90 min",
+    "number_size": 190,
+    "headline": "Instagram is testing [[longer videos]]",
+    "sub": "Features lets creators post videos up to 90 minutes. It began rolling out to select US creators on Oct 26.",
+    "source": "Instagram, via Social Media Today, Oct 26"
+   },
+   {
+    "type": "news",
+    "tag": "News 02 · Meta Ads",
+    "headline": "Meta ads can now [[target each creative]]",
+    "sub": "Inside one ad set, advertisers can pick the age range and gender each image or video suits best. It launched Oct 19 for Marketing API partners.",
+    "image": "img/meta-creative-targeting.png",
+    "fit": "contain",
+    "image_bg": "#ffffff",
+    "icon": "users",
+    "source": "Meta for Developers, Oct 19"
+   },
+   {
+    "type": "news",
+    "tag": "News 03 · Instagram",
+    "headline": "Reels get a [[reference clip]] option",
+    "sub": "Overlay another Reel under 90 seconds on your camera view. Pause it, move it and record your response. iOS only for now.",
+    "image": "img/reference-reels.png",
+    "fit": "contain",
+    "image_bg": "#000000",
+    "image_h": 430,
+    "icon": "play",
+    "source": "Meta, via Social Media Today, Oct 15"
+   },
+   {
+    "type": "news",
+    "tag": "News 04 · LinkedIn",
+    "headline": "LinkedIn tests [[ad revenue for creators]]",
+    "sub": "Pre-roll ads would run on creator videos, with creators getting a share. Brands also get new Creator Marketplace filters.",
+    "image": "img/linkedin-marketplace.png",
+    "fit": "contain",
+    "image_bg": "#f1f5f8",
+    "image_h": 430,
+    "icon": "megaphone",
+    "source": "LinkedIn, via Social Media Today, Oct 15"
+   },
+   {
+    "type": "stat",
+    "tag": "News 05 · TikTok",
+    "number": "263%",
+    "headline": "more [[#holidayshopping]] content on TikTok",
+    "sub": "That is TikTok's month over month jump for September. Black Friday is under a month away.",
+    "source": "TikTok, via Social Media Today, Oct 20"
+   }
+  ],
+  "take": {
+   "headline": "One long video, up to [[eight Reels]]",
+   "sub": "Instagram's Clips as Reels links clips to the full video. Plan the long version first, then cut from it."
+  },
+  "cta": {
+   "headline": "Comment [[UPDATE]] and I'll send you the full list",
+   "sub": "All five updates, with the sources, in one place.",
+   "keyword": "UPDATE"
+  }
+ },
+ "stories": [
+  {
+   "name": "story-thu",
+   "type": "quick",
+   "chip": "Quick take",
+   "headline": "Instagram does not [[throttle AI content]]",
+   "sub": "Adam Mosseri says reach is not cut just because a post is AI made. Ranking picks what you like, and it still makes mistakes.",
+   "source": "Social Media Today, Oct 19"
+  },
+  {
+   "name": "story-fri",
+   "type": "poll",
+   "headline": "Is your Black Friday content [[ready?]]",
+   "context": "TikTok says #holidayshopping content grew 263% in September."
+  },
+  {
+   "name": "story-sat",
+   "type": "news",
+   "chip": "Social news",
+   "headline": "Instagram Edits is heading to [[desktop]]",
+   "image": "img/edits-desktop.png",
+   "fit": "contain",
+   "image_bg": "#16171b",
+   "sub": "A live version is in testing with selected creators. More editing tools fit on one screen.",
+   "source": "Social Media Today, Oct 25"
+  },
+  {
+   "name": "story-sun",
+   "type": "quick",
+   "chip": "Quick take",
+   "headline": "Meta's top Muse request: [[which ads work?]]",
+   "sub": "Meta says business owners most often ask its Muse AI agent which campaigns are working and which are not.",
+   "source": "Meta, via Social Media Today, Oct 18"
+  },
+  {
+   "name": "story-mon",
+   "type": "poll",
+   "headline": "Would you post a [[90 minute]] video?",
+   "context": "Instagram is testing Features, with videos up to 90 minutes."
+  },
+  {
+   "name": "story-tue",
+   "type": "news",
+   "chip": "Social news",
+   "headline": "LinkedIn adds [[digital business cards]]",
+   "image": "img/linkedin-cards.png",
+   "fit": "cover",
+   "image_bg": "#0a0c0f",
+   "sub": "Share your profile with a scannable card and design it your way. Rolling out globally over the coming months.",
+   "source": "LinkedIn, via Social Media Today, Oct 18"
+  },
+  {
+   "name": "story-wed",
+   "type": "quick",
+   "chip": "My take",
+   "headline": "Long form is back, so [[plan it]]",
+   "size": 90,
+   "sub": "Instagram is testing 90 minute videos. Start with one idea worth ten minutes, then cut it into Reels."
+  }
+ ]
+}
