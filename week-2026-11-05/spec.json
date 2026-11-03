@@ -1,0 +1,46 @@
+{
+ "carousel": {
+  "cover": {
+   "hook": "Instagram is offering creators up to $500K for long videos. Are you in?",
+   "label": "5 social updates worth knowing right now",
+   "date": "Nov 5"
+  },
+  "slides": [
+   {"type":"stat","tag":"News 01 · Instagram","number":"$500K","headline":"Instagram is [[offering to pay]] creators for long videos",
+    "sub":"Business Insider reports top offers for its Features product reached $500,000. Meta says it is funding Features content directly with some creators.",
+    "source":"Business Insider, via Social Media Today, Nov 1"},
+   {"type":"stat","tag":"News 02 · LinkedIn","number":"63%","headline":"more LinkedIn ads now [[feature creators]]",
+    "sub":"Year over year. LinkedIn's CEO also said paid video ads are up 25%.",
+    "source":"Microsoft earnings, via Social Media Today, Oct 29"},
+   {"type":"stat","tag":"News 03 · TikTok","number":"$4.7B","headline":"in local spending [[started on TikTok]]",
+    "sub":"TikTok says 27 million Americans visited an independent restaurant, cafe or shop for the first time last year after finding it there.",
+    "source":"TikTok, via Social Media Today, Oct 28"},
+   {"type":"stat","tag":"News 04 · Meta Ads","number":"97%","headline":"growth in [[partnership ads]] year over year",
+    "sub":"Meta says ads run with creators and partners grew more than 97% in Q3 and passed a $15 billion annual run rate.",
+    "source":"Meta, via Social Media Today, Oct 28"},
+   {"type":"stat","tag":"News 05 · Google","number":"12%","headline":"search volume growth, [[down from 17%]]",
+    "sub":"Google says AI Mode queries are growing fast but monetize less. Where people search is shifting.",
+    "source":"Alphabet Q3 earnings, via Social Media Today, Nov 1"}
+  ],
+  "take": {"headline":"Brands and creators are [[getting paid]] together",
+   "sub":"Money is flowing to creator content on Instagram, LinkedIn and Meta ads. Build creator partnerships now."},
+  "cta": {"headline":"Comment [[UPDATE]] and I'll send you the full list",
+   "sub":"All five updates, with the sources, in one place.","keyword":"UPDATE"}
+ },
+ "stories": [
+  {"name":"story-thu","type":"quick","chip":"Quick take","headline":"Meta's creator assistant now sends [[trend alerts]]",
+   "sub":"It flags trends in your niche, turns an idea into a storyboard and shot list, and drafts comment replies in your voice. Now on the web.",
+   "source":"Social Media Today, Nov 2"},
+  {"name":"story-fri","type":"poll","headline":"Do you work with [[creators]] in your marketing?","context":"LinkedIn says ads featuring creators are up 63% year over year."},
+  {"name":"story-sat","type":"quick","chip":"Quick take","number":"6.5B","headline":"views for YouTube [[microdramas]]",
+   "sub":"YouTube says microdramas passed 6.5 billion views in the first half of 2026.","source":"YouTube, via Social Media Today, Oct 27"},
+  {"name":"story-sun","type":"quick","chip":"Quick take","headline":"Threads tests [[custom like buttons]]",
+   "sub":"Add your own image or animation that shows when people like your posts. Testing with select users in South Korea, Brazil and Indonesia.",
+   "source":"Social Media Today, Oct 29"},
+  {"name":"story-mon","type":"poll","headline":"Would you take a [[paid]] long video deal?","context":"Instagram is reportedly offering creators up to $500K for Features videos."},
+  {"name":"story-tue","type":"quick","chip":"Quick take","number":"$4.7B","headline":"Local spending that [[began on TikTok]]",
+   "sub":"TikTok says 27 million Americans tried a new local business after finding it on the app.","source":"TikTok, via Social Media Today, Oct 28"},
+  {"name":"story-wed","type":"quick","chip":"My take","headline":"Creators are the [[new ad channel]]","size":90,
+   "sub":"Partnership ads, creator ads, paid long form. Pick two creators and test a partnership this month."}
+ ]
+}
