@@ -1,0 +1,38 @@
+{
+ "carousel": {
+  "cover": {"hook": "Instagram lets you build Story effects with a prompt. Are you in?", "label": "5 social updates worth knowing right now", "date": "Nov 12"},
+  "slides": [
+   {"type":"stat","tag":"News 01 · Instagram","number":"1 prompt","number_size":190,"headline":"Build Story effects [[with a prompt]]",
+    "sub":"Instagram's new Effect Builder in Edits makes effects from plain text. Meta reviews each one, generally in under 24 hours.",
+    "source":"Social Media Today, Nov 9"},
+   {"type":"stat","tag":"News 02 · TikTok","number":"30 sec","number_size":190,"headline":"TikTok's AI ad tool makes [[longer videos]]",
+    "sub":"Symphony Agent now uses Seedance models: up to 30 seconds per prompt, up from 15, and up to 50 references, up from 9.",
+    "source":"TikTok, via Social Media Today, Nov 9"},
+   {"type":"stat","tag":"News 03 · LinkedIn","number":"-18.8%","number_size":170,"headline":"fewer posts [[hidden]] in LinkedIn tests",
+    "sub":"LinkedIn says its new profile-matching feed model cut hide rate 18.8% in experiments. New members saw 17.7% more viral engagement.",
+    "source":"LinkedIn Engineering, via Social Media Today, Nov 9"},
+   {"type":"stat","tag":"News 04 · Google","number":"400%","number_size":190,"headline":"jump in searches for [[face brushes]]",
+    "sub":"Google's 2026 Holiday 100 says lymphatic sculpting face brush searches are up 400%. Kitten heel sandals are up 295%.",
+    "source":"Google, via Social Media Today, Nov 9"},
+   {"type":"stat","tag":"News 05 · Meta","number":"50M+","number_size":190,"headline":"users, and Edits is now on [[desktop]]",
+    "sub":"Meta's editing app is out for Mac with a multi-track timeline and 4K export with no watermark.",
+    "source":"Meta, via Social Media Today, Nov 5"}
+  ],
+  "take": {"headline":"Prompt it, plan it, [[post it]]","sub":"AI tools now build effects, ads and edits for you. Pick one this week and test it on a real post."},
+  "cta": {"headline":"Comment [[UPDATE]] and I'll send you the full list","sub":"All five updates, with the sources, in one place.","keyword":"UPDATE"}
+ },
+ "stories": [
+  {"name":"story-thu","type":"quick","chip":"Quick take","headline":"Meta's Muse can build [[mini apps]]",
+   "sub":"Muse Spaces turns a command into a dedicated mini app inside Muse. Meta says the Muse app has passed 10 million downloads.","source":"Social Media Today, Nov 8"},
+  {"name":"story-fri","type":"poll","headline":"Would you use AI to build your [[Story effects]]?","context":"Instagram's new Effect Builder makes effects from a text prompt."},
+  {"name":"story-sat","type":"quick","chip":"Quick take","headline":"YouTube tests [[product picks]] for creators",
+   "sub":"Eligible affiliate creators see personalized product recommendations with estimated commission rates in Studio's shopping hub.","source":"YouTube, via Social Media Today, Nov 8"},
+  {"name":"story-sun","type":"quick","chip":"Quick take","headline":"Check your [[offer settings]] in Meta ads",
+   "sub":"A marketing advisor found Meta's AI ads showed website discounts even when promotions were off on the original ad. Review detected offers in Commerce Manager.","source":"PPC Land, via Social Media Today, Nov 8"},
+  {"name":"story-mon","type":"poll","headline":"Are you planning [[holiday content]] yet?","context":"Google says kitten heel sandal searches are up 295% in its Holiday 100."},
+  {"name":"story-tue","type":"quick","chip":"Quick take","headline":"TikTok launches a [[Shop app]]",
+   "sub":"The standalone shopping app is available in Singapore, Thailand, Malaysia and the Philippines.","source":"Social Media Today, Nov 5"},
+  {"name":"story-wed","type":"quick","chip":"My take","headline":"Test one [[AI tool]] this week","size":90,
+   "sub":"Effects, ads, edits. Pick one tool, try it on a real post, and note what you learn."}
+ ]
+}
