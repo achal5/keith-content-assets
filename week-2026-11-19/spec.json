@@ -1,0 +1,38 @@
+{
+ "carousel": {
+  "cover": {"hook": "Instagram can now flag people who repost your Reels. Are you in?", "label": "5 social updates worth knowing right now", "date": "Nov 19"},
+  "slides": [
+   {"type":"stat","tag":"News 01 · Instagram","number":"3 options","number_size":150,"headline":"Instagram will [[flag copies]] of your Reels",
+    "sub":"New content protection scans for reposts of your videos. You can block a match, add an original by label, or leave it up and track it.",
+    "source":"TechCrunch, Nov 17"},
+   {"type":"stat","tag":"News 02 · Instagram","number":"30","number_size":190,"headline":"shoppable products per Reel with [[Amazon links]]",
+    "sub":"Creators can tag up to 30 products per Reel and 20 per feed post, and see the commission rate for each. Needs a linked Amazon Influencer account.",
+    "source":"Social Media Today, Nov 16"},
+   {"type":"stat","tag":"News 03 · IAB","number":"$44B","number_size":190,"headline":"in creator ad spend [[expected this year]]",
+    "sub":"The IAB says creator budgets are up from $13.9 billion in 2021, more than tripling in five years.",
+    "source":"IAB, Nov 10"},
+   {"type":"stat","tag":"News 04 · YouTube","number":"10","number_size":190,"headline":"countries get AI clips for [[podcast Shorts]]",
+    "sub":"YouTube Studio can turn a 16:9 podcast segment into a vertical Short with auto captions. AI-suggested segments cover 10 countries, including the US.",
+    "source":"YouTube Help, via PPC Land, Nov 12"},
+   {"type":"stat","tag":"News 05 · Facebook","number":"Dec 14","number_size":170,"headline":"is the deadline for [[extra profiles]]",
+    "sub":"Meta will permanently remove additional Facebook profiles after Dec 14, 2026. Export your data and reassign any group admin roles first.",
+    "source":"Meta, via Relevant Audience, Nov 14"}
+  ],
+  "take": {"headline":"Own your content, then [[make it pay]]","sub":"Protection, affiliate links and clips all reward original work. Audit what you post and where it earns."},
+  "cta": {"headline":"Comment [[UPDATE]] and I'll send you the full list","sub":"All five updates, with the sources, in one place.","keyword":"UPDATE"}
+ },
+ "stories": [
+  {"name":"story-thu","type":"quick","chip":"Quick take","headline":"Edits adds [[speed curves]]",
+   "sub":"Meta's Edits app now lets you vary playback speed inside a clip with presets or your own curve, and it can balance audio automatically.","source":"Social Media Today, Nov 12"},
+  {"name":"story-fri","type":"poll","headline":"Would you let AI [[clip your podcast]] into Shorts?","context":"YouTube Studio now turns podcast segments into vertical Shorts."},
+  {"name":"story-sat","type":"quick","chip":"Quick take","headline":"X adds [[native clipping]]",
+   "sub":"Clips carry a Clip from label, and payouts are shared between the original creator and the person who clipped it.","source":"Ubergizmo, Nov 12"},
+  {"name":"story-sun","type":"quick","chip":"Quick take","headline":"LinkedIn brings [[TV ads]] to the UK",
+   "sub":"B2B targeting on streaming TV across LG, Paramount+ and Titan OS. The 30% lower lead cost figure is LinkedIn's own claim.","source":"Social Media Today, Nov 12"},
+  {"name":"story-mon","type":"poll","headline":"Will you add [[affiliate links]] to your Reels?","context":"Instagram now supports Amazon affiliate links on Reels and posts."},
+  {"name":"story-tue","type":"quick","chip":"Quick take","headline":"Check your [[group admins]] on Facebook",
+   "sub":"If an extra profile runs a group, assign a main profile as admin before Dec 14 or the group is paused.","source":"Meta, via Relevant Audience, Nov 14"},
+  {"name":"story-wed","type":"quick","chip":"My take","headline":"Try one [[new tool]] this week","size":90,
+   "sub":"Clips, speed curves or affiliate links. Pick one, test it on a real post, and note what you learn."}
+ ]
+}
