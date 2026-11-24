@@ -1,0 +1,38 @@
+{
+ "carousel": {
+  "cover": {"hook": "You can now edit an Instagram Story after you post it. Are you in?", "label": "5 social updates worth knowing right now", "date": "Nov 26"},
+  "slides": [
+   {"type":"stat","tag":"News 01 · Instagram","number":"15 min","number_size":150,"headline":"to [[edit a Story]] after you post it",
+    "sub":"Instagram now lets you fix typos and mistakes in a published Story for up to 15 minutes. Multi-photo posting and new stickers arrived too.",
+    "source":"Social Media Today, Nov 19"},
+   {"type":"stat","tag":"News 02 · TikTok","number":"1 tool","number_size":150,"headline":"checks if media came from [[TikTok AI]]",
+    "sub":"Upload an image or video to see if TikTok's AI tools made it, even without an account. A likeness detection tool for creators was also announced.",
+    "source":"Social Media Today, Nov 22"},
+   {"type":"stat","tag":"News 03 · YouTube","number":"1B+","number_size":190,"headline":"hours of YouTube watched on TV [[every day]]",
+    "sub":"YouTube will now add co-viewers to CTV view counts, so a family on one couch counts as more than one viewer.",
+    "source":"Social Media Today, Nov 22"},
+   {"type":"stat","tag":"News 04 · Meta","number":"iPad","number_size":170,"headline":"Meta's Edits app is now [[on iPad]]",
+    "sub":"A bigger composition screen puts more editing options in view at once, alongside new tools and effects.",
+    "source":"Social Media Today, Nov 23"},
+   {"type":"stat","tag":"News 05 · Meta","number":"Web","number_size":170,"headline":"Meta's Creator Dashboard [[comes to desktop]]",
+    "sub":"The new dashboard replaces other management tools as the main place to manage your presence. Expect a learning curve.",
+    "source":"Social Media Today, Nov 18"}
+  ],
+  "take": {"headline":"Less rework, [[more control]]","sub":"Edit after posting, verify what is AI, count real viewers. Pick one habit to tighten this week."},
+  "cta": {"headline":"Comment [[UPDATE]] and I'll send you the full list","sub":"All five updates, with the sources, in one place.","keyword":"UPDATE"}
+ },
+ "stories": [
+  {"name":"story-thu","type":"quick","chip":"Quick take","headline":"LinkedIn adds a [[monetization tab]]",
+   "sub":"Creator analytics will get a separate tab with guides to income streams, alongside content and audience analytics. Rolling out soon.","source":"Social Media Today, Nov 16"},
+  {"name":"story-fri","type":"poll","headline":"Will you use the new [[Story edit]] window?","context":"Instagram now lets you edit a Story for 15 minutes after posting."},
+  {"name":"story-sat","type":"quick","chip":"Quick take","headline":"TikTok adds [[likeness detection]]",
+   "sub":"Creators verify their ID with a third-party partner, and the system flags uploads that appear to use their image.","source":"Social Media Today, Nov 22"},
+  {"name":"story-sun","type":"quick","chip":"Quick take","headline":"YouTube counts [[co-viewers]] on TV",
+   "sub":"CTV view counts will now reflect several people watching together, not one viewer per session.","source":"Social Media Today, Nov 22"},
+  {"name":"story-mon","type":"poll","headline":"Do you edit video on an [[iPad]]?","context":"Meta's Edits app now has an iPad version with a larger editing screen."},
+  {"name":"story-tue","type":"quick","chip":"Quick take","headline":"Meta's new [[Creator Dashboard]]",
+   "sub":"It is now live on the web and replaces other tools as the main place to manage your presence. Take ten minutes to explore it.","source":"Social Media Today, Nov 18"},
+  {"name":"story-wed","type":"quick","chip":"My take","headline":"Try one [[new tool]] this week","size":90,
+   "sub":"Story editing, the Creator Dashboard or Edits on iPad. Pick one, test it on a real post, and note what you learn."}
+ ]
+}
